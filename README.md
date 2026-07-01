@@ -34,7 +34,7 @@ Its purpose is to provide:
 - designed for a controlled hosted experience
 
 ## Goal
-This prokect was so i can learn how AI systems work and how API's work as well and
+This project was so i can learn how AI systems work and how API's work as well and
 I am very intrested in AI and API's so I wanted to try to host one myself!
 
 ## Technology
